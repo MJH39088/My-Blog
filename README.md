@@ -1,2 +1,2 @@
 # My-Blog
-CSS, HTML
+Developer : 허민재
